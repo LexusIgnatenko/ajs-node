@@ -1,0 +1,24 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LexusIgnatenko/ajs-node#readme",
+  "bugs": {
+    "url": "https://github.com/LexusIgnatenko/ajs-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexusIgnatenko/ajs-node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@lexusignatenko/ajs": "^1.0.0"
+  }
+}
